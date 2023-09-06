@@ -1,0 +1,105 @@
+getwd()
+library(tidyverse)
+library(patchwork)
+library(cowplot)
+Dixon_BP = read.table("Dixon_BP.csv", header = T)
+Dixon_MF = read.table("Dixon_MF.csv", header = T)
+Dixon_CC = read.table("Dixon_CC.csv", header = T)
+Ast_Heat_Sym_BP = read.table("../GO_DEGs/Astrangia/MWU_BP_sym_control_vs_hot_results_modified_pvalues.csv", header = T)
+Ast_Heat_Sym_MF = read.table("../GO_DEGs/Astrangia/MWU_MF_sym_control_vs_hot_results_modified_pvalues.csv", header = T)
+Ast_Heat_Sym_CC = read.table("../GO_DEGs/Astrangia/MWU_CC_sym_control_vs_hot_results_modified_pvalues.csv", header = T)
+Ast_Heat_Sym_BP = read.table("../GO_DEGs/Astrangia/MWU_BP_sym_control_vs_hot_results_modified_pvalues.csv", header = T)#
+Ast_Heat_Sym_MF = read.table("../GO_DEGs/Astrangia/MWU_MF_sym_control_vs_hot_results_modified_pvalues.csv", header = T)#
+Ast_Heat_Sym_CC = read.table("../GO_DEGs/Astrangia/MWU_CC_sym_control_vs_hot_results_modified_pvalues.csv", header = T)#
+#
+Ast_Heat_apo_BP = read.table("../GO_DEGs/Astrangia/MWU_BP_apo_control_vs_hot_results_modified_pvalues.csv", header = T)#
+Ast_Heat_apo_MF = read.table("../GO_DEGs/Astrangia/MWU_MF_apo_control_vs_hot_results_modified_pvalues.csv", header = T)#
+Ast_Heat_apo_CC = read.table("../GO_DEGs/Astrangia/MWU_CC_apo_control_vs_hot_results_modified_pvalues.csv", header = T)
+Heat_Sym_BP = read.table("../GO_DEGs/Astrangia/MWU_BP_sym_control_vs_hot_results_modified_pvalues.csv", header = T)#
+Heat_Sym_MF = read.table("../GO_DEGs/Astrangia/MWU_MF_sym_control_vs_hot_results_modified_pvalues.csv", header = T)#
+Heat_Sym_CC = read.table("../GO_DEGs/Astrangia/MWU_CC_sym_control_vs_hot_results_modified_pvalues.csv", header = T)#
+#
+Heat_apo_BP = read.table("../GO_DEGs/Astrangia/MWU_BP_apo_control_vs_hot_results_modified_pvalues.csv", header = T)#
+Heat_apo_MF = read.table("../GO_DEGs/Astrangia/MWU_MF_apo_control_vs_hot_results_modified_pvalues.csv", header = T)#
+Heat_apo_CC = read.table("../GO_DEGs/Astrangia/MWU_CC_apo_control_vs_hot_results_modified_pvalues.csv", header = T)
+heat_sym_goods = intersect(Heat_Sym_BP$term, Dixon_BP$term)
+heat_sym = Heat_Sym_BP[Heat_Sym_BP$term %in% heat_sym_goods,]
+Dixon_BP_set = Dixon_BP[Dixon_BP$term %in% heat_sym_goods,]
+heat_sym_BP_data = merge(heat_sym, Dixon_BP_set, by="term")
+heat_sym_BP_plot = ggplot(heat_sym_BP_data, aes(delta.rank.x, delta.rank.y, label = name.y)) +
+heat_sym_BP_plot = ggplot(heat_sym_BP_data, aes(delta.rank.x, delta.rank.y, label = name.y)) +#
+  scale_fill_distiller(palette = "Reds", direction = 1) +#
+  geom_hex() +#
+  labs( x = "Brown Phenotype",#
+        y = "Dixon") +#
+  geom_vline(xintercept = 0, linetype = 2, alpha = 0.75) +#
+  geom_hline(yintercept = 0, linetype = 2, alpha = 0.75) +#
+  geom_smooth(method=lm, color="black", se =FALSE) +#
+  theme_cowplot()
+heat_sym_BP_plot = ggplot(heat_sym_BP_data, aes(delta.rank.x, delta.rank.y, label = name.y)) +#
+  scale_fill_distiller(palette = "Reds", direction = 1) +#
+  geom_hex() +#
+  labs( x = "Brown Phenotype",#
+        y = "Dixon") +#
+  geom_vline(xintercept = 0, linetype = 2, alpha = 0.75) +#
+  geom_hline(yintercept = 0, linetype = 2, alpha = 0.75) +#
+  geom_smooth(method=lm, color="black", se =FALSE) +#
+  theme_cowplot()
+heat_sym_BP_plot
+dev.off()
+quartz()
+scale_fill_distiller(palette = "Reds", direction = 1) +#
+  geom_hex() +#
+  labs( x = "Brown Phenotype",#
+        y = "Dixon") +#
+  geom_vline(xintercept = 0, linetype = 2, alpha = 0.75) +#
+  geom_hline(yintercept = 0, linetype = 2, alpha = 0.75) +#
+  geom_smooth(method=lm, color="black", se =FALSE) +#
+  theme_cowplot()
+dev.off()
+heat_sym_BP_plot = ggplot(heat_sym_BP_data, aes(delta.rank.x, delta.rank.y, label = name.y)) +#
+  scale_fill_distiller(palette = "Reds", direction = 1) +#
+  geom_hex() +#
+  labs( x = "Brown Phenotype",#
+        y = "Dixon") +#
+  geom_vline(xintercept = 0, linetype = 2, alpha = 0.75) +#
+  geom_hline(yintercept = 0, linetype = 2, alpha = 0.75) +#
+  geom_smooth(method=lm, color="black", se =FALSE) +#
+  theme_cowplot()
+ggplot(heat_sym_BP_data, aes(delta.rank.x, delta.rank.y, label = name.y)) +#
+  scale_fill_distiller(palette = "Reds", direction = 1) +#
+  geom_hex() +#
+  labs( x = "Brown Phenotype",#
+        y = "Dixon") +#
+  geom_vline(xintercept = 0, linetype = 2, alpha = 0.75) +#
+  geom_hline(yintercept = 0, linetype = 2, alpha = 0.75) +#
+  geom_smooth(method=lm, color="black", se =FALSE) +#
+  theme_cowplot()
+ggplot(heat_sym_BP_data, aes(delta.rank.x, delta.rank.y, label = name.y)) +#
+  scale_fill_distiller(palette = "Reds", direction = 1) +#
+  geom_hex() +#
+  labs( x = "Brown Phenotype",#
+        y = "Dixon") +#
+  geom_vline(xintercept = 0, linetype = 2, alpha = 0.75) +#
+  geom_hline(yintercept = 0, linetype = 2, alpha = 0.75) +#
+  geom_smooth(method=lm, color="black", se =FALSE) +#
+  theme_cowplot()
+ggplot(heat_sym_BP_data, aes(delta.rank.x, delta.rank.y, label = name.y)) +#
+  scale_fill_distiller(palette = "Reds", direction = 1) +#
+  geom_hex() +#
+  labs( x = "Brown Phenotype",#
+        y = "Dixon") +#
+  geom_vline(xintercept = 0, linetype = 2, alpha = 0.75) +#
+  geom_hline(yintercept = 0, linetype = 2, alpha = 0.75) +#
+  geom_smooth(method=lm, color="black", se =FALSE) +#
+  theme_cowplot()
+print(ggplot(heat_sym_BP_data, aes(delta.rank.x, delta.rank.y, label = name.y)) +#
+  scale_fill_distiller(palette = "Reds", direction = 1) +#
+  geom_hex() +#
+  labs( x = "Brown Phenotype",#
+        y = "Dixon") +#
+  geom_vline(xintercept = 0, linetype = 2, alpha = 0.75) +#
+  geom_hline(yintercept = 0, linetype = 2, alpha = 0.75) +#
+  geom_smooth(method=lm, color="black", se =FALSE) +#
+  theme_cowplot()#
+)

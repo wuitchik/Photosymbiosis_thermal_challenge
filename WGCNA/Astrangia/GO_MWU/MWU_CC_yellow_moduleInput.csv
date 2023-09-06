@@ -1,0 +1,540 @@
+"delta.rank" "pval" "level" "nseqs" "term" "name" "p.adj"
+0 1 2 11 "GO:0000109" "nucleotide-excision repair complex" 1
+0 0.674674577055829 2 42 "GO:0000118" "histone deacetylase complex" 1
+0 0.833396890562989 2 67 "GO:0000123;GO:0031248;GO:1902493" "protein acetyltransferase complex" 1
+0 0.916020654708729 3 640 "GO:0000139" "Golgi membrane" 1
+0 1 2 44 "GO:0000152" "nuclear ubiquitin ligase complex" 1
+0 1 3 14 "GO:0000176" "nuclear exosome (RNase complex)" 1
+0 1 4 15 "GO:0000177" "cytoplasmic exosome (RNase complex)" 1
+0 1 3 23 "GO:0000178;GO:1905354" "exosome (RNase complex)" 1
+0 0.538424749230931 2 68 "GO:0000228" "nuclear chromosome" 1
+0 1 2 13 "GO:0000242" "pericentriolar material" 1
+0 1 5 13 "GO:0000307" "cyclin-dependent protein kinase holoenzyme complex" 1
+0 1 2 18 "GO:0000324;GO:0000322" "storage vacuole" 1
+0 0.330251273283177 2 15 "GO:0000407" "phagophore assembly site" 1
+0 1 4 16 "GO:0000421" "autophagosome membrane" 1
+0 1 2 51 "GO:0000502;GO:1905369" "endopeptidase complex" 1
+0 0.699768993715875 2 45 "GO:0000775" "chromosome, centromeric region" 1
+0 1 2 52 "GO:0000776" "kinetochore" 1
+0 0.770268627135388 2 55 "GO:0000781" "chromosome, telomeric region" 1
+0 1 2 87 "GO:0000785" "chromatin" 1
+0 0.646842995959628 2 83 "GO:0000786;GO:0044815" "DNA packaging complex" 1
+0 1 3 26 "GO:0000792" "heterochromatin" 1
+0 0.29435982341242 6 41 "GO:0000794;GO:0000793" "condensed chromosome" 1
+0 0.234488654606125 2 10 "GO:0000795;GO:0099086" "synaptonemal complex" 1
+0 1 3 11 "GO:0000812" "Swr1 complex" 1
+0 0.499092155808001 2 366 "GO:0000922" "spindle pole" 1
+0 0.993347201374512 5 187 "GO:0000932" "P-body" 1
+0 0.167852926121047 2 28 "GO:0000943" "retrotransposon nucleocapsid" 1
+0 1 2 11 "GO:0000974" "Prp19 complex" 1
+0 0.0158743720241867 5 56 "GO:0001527" "microfibril" 1
+0 1 2 63 "GO:0001650" "fibrillar center" 1
+0 0.00140187000787744 3 32 "GO:0001669" "acrosomal vesicle" 0.251869311415313
+0 0.284545542989555 3 40 "GO:0001725;GO:0097517;GO:0032432" "actin filament bundle" 1
+0 0.872545171474242 2 77 "GO:0001726" "ruffle" 1
+0 1 2 43 "GO:0001750" "photoreceptor outer segment" 1
+0 0.444557839384376 2 22 "GO:0001891" "phagocytic cup" 1
+0 1 2 26 "GO:0001917" "photoreceptor inner segment" 1
+0 1 3 19 "GO:0002102" "podosome" 1
+0 1 3 13 "GO:0002116" "semaphorin receptor complex" 1
+0 0.747055558634581 2 1978 "GO:0005576" "extracellular region" 1
+0 0.869323871316792 2 376 "GO:0005581" "collagen trimer" 1
+0 1 2 31 "GO:0005583" "fibrillar collagen trimer" 1
+0 1 3 11 "GO:0005584" "collagen type I trimer" 1
+0 1 2 14 "GO:0005593;GO:0030934" "FACIT collagen trimer" 1
+0 0.705765313766283 4 308 "GO:0005604;GO:0062023" "collagen-containing extracellular matrix" 1
+0 1 2 13 "GO:0005614" "interstitial matrix" 1
+0 0.760369796473706 2 1191 "GO:0005615" "extracellular space" 1
+0 0.418357189152054 2 54 "GO:0005618" "cell wall" 1
+0 0.600916394776937 2 749 "GO:0005622" "intracellular anatomical structure" 1
+0 1 -1 44 "GO:0005623" "obsolete cell" 1
+0 1 4 174 "GO:0005635;GO:0031967;GO:0031975" "organelle envelope" 1
+0 1 2 19 "GO:0005637" "nuclear inner membrane" 1
+0 0.539377182952137 2 29 "GO:0005639;GO:0031229" "integral component of nuclear inner membrane" 1
+0 1 2 28 "GO:0005641" "nuclear envelope lumen" 1
+0 1 3 51 "GO:0005643" "nuclear pore" 1
+0 0.999996350726165 2 1445 "GO:0005654" "nucleoplasm" 1
+0 0.799050425931552 2 60 "GO:0005657" "replication fork" 1
+0 1 2 15 "GO:0005665" "RNA polymerase II, core complex" 1
+0 1 2 16 "GO:0005666" "RNA polymerase III complex" 1
+0 0.856610053005119 2 180 "GO:0005667" "transcription regulator complex" 1
+0 0.414048339263349 2 20 "GO:0005669" "transcription factor TFIID complex" 1
+0 1 -1 13 "GO:0005671" "obsolete Ada2/Gcn5/Ada3 transcription activator complex" 1
+0 1 2 12 "GO:0005675;GO:0032806" "carboxy-terminal domain protein kinase complex" 1
+0 1 2 19 "GO:0005680" "anaphase-promoting complex" 1
+0 1 2 181 "GO:0005681" "spliceosomal complex" 1
+0 1 2 30 "GO:0005682" "U5 snRNP" 1
+0 1 2 25 "GO:0005684" "U2-type spliceosomal complex" 1
+0 1 3 15 "GO:0005685" "U1 snRNP" 1
+0 1 3 15 "GO:0005686" "U2 snRNP" 1
+0 1 2 22 "GO:0005689" "U12-type spliceosomal complex" 1
+0 0.356714840174012 3 219 "GO:0005694" "chromosome" 1
+0 0.444557839384376 2 22 "GO:0005700;GO:0035059" "polytene chromosome" 1
+0 0.999428467640646 5 579 "GO:0005730" "nucleolus" 1
+0 1 2 16 "GO:0005732" "sno(s)RNA-containing ribonucleoprotein complex" 1
+0 1 2 10 "GO:0005736" "RNA polymerase I complex" 1
+0 0.99739172776871 2 946 "GO:0005739" "mitochondrion" 1
+0 1 2 128 "GO:0005741;GO:0031968;GO:0019867" "outer membrane" 1
+0 0.981852626286488 3 286 "GO:0005743;GO:0019866" "organelle inner membrane" 1
+0 1 4 29 "GO:0005747;GO:0045271;GO:0030964" "mitochondrial respiratory chain complex I" 1
+0 0.707696584534165 2 46 "GO:0005758" "mitochondrial intermembrane space" 1
+0 0.991294549722508 5 177 "GO:0005759" "mitochondrial matrix" 1
+0 1 5 15 "GO:0005761;GO:0000313" "mitochondrial ribosome" 1
+0 1 3 39 "GO:0005762;GO:0000315" "mitochondrial large ribosomal subunit" 1
+0 1 2 24 "GO:0005763;GO:0000314" "mitochondrial small ribosomal subunit" 1
+0 0.985748832230116 2 415 "GO:0005764;GO:0000323;GO:0005773" "vacuole" 1
+0 0.99874842968632 5 335 "GO:0005765;GO:0098852;GO:0005774" "vacuolar membrane" 1
+0 1 2 10 "GO:0005767" "secondary lysosome" 1
+0 0.963038539499048 2 755 "GO:0005768" "endosome" 1
+0 0.945452040919297 2 389 "GO:0005769" "early endosome" 1
+0 0.654283770651028 2 127 "GO:0005770" "late endosome" 1
+0 1 9 22 "GO:0005771" "multivesicular body" 1
+0 0.691626693121244 2 44 "GO:0005776" "autophagosome" 1
+0 0.973807384547937 2 136 "GO:0005777;GO:0042579" "microbody" 1
+0 0.55153304899616 4 30 "GO:0005778;GO:0031903" "microbody membrane" 1
+0 1 2 12 "GO:0005779;GO:0031231" "integral component of peroxisomal membrane" 1
+0 1 5 19 "GO:0005782;GO:0031907" "microbody lumen" 1
+0 0.999999871768326 2 698 "GO:0005783" "endoplasmic reticulum" 1
+0 0.75894272523297 5 195 "GO:0005788" "endoplasmic reticulum lumen" 1
+0 0.994440347800157 2 688 "GO:0005789" "endoplasmic reticulum membrane" 1
+0 0.330251273283177 3 15 "GO:0005790" "smooth endoplasmic reticulum" 1
+0 1 2 45 "GO:0005791" "rough endoplasmic reticulum" 1
+0 1 4 37 "GO:0005793" "endoplasmic reticulum-Golgi intermediate compartment" 1
+0 0.99649660905957 5 716 "GO:0005794" "Golgi apparatus" 1
+0 1 4 36 "GO:0005795" "Golgi stack" 1
+0 0.613113156215211 5 78 "GO:0005796" "Golgi lumen" 1
+0 0.500899546486529 3 26 "GO:0005797" "Golgi medial cisterna" 1
+0 1 2 43 "GO:0005798" "Golgi-associated vesicle" 1
+0 1 2 29 "GO:0005801" "cis-Golgi network" 1
+0 0.68509473908847 2 176 "GO:0005802" "trans-Golgi network" 1
+0 1 3 58 "GO:0005811" "lipid droplet" 1
+0 0.975107746338149 2 384 "GO:0005813" "centrosome" 1
+0 0.942967067026607 3 107 "GO:0005814" "centriole" 1
+0 0.91126555057908 2 769 "GO:0005815" "microtubule organizing center" 1
+0 0.949305158672241 3 177 "GO:0005819" "spindle" 1
+0 1 8 14 "GO:0005827" "polar microtubule" 1
+0 1 2 12 "GO:0005828" "kinetochore microtubule" 1
+0 0.999999999353129 2 2879 "GO:0005829" "cytosol" 1
+0 1 3 13 "GO:0005834;GO:1905360" "heterotrimeric G-protein complex" 1
+0 1 2 16 "GO:0005839" "proteasome core complex" 1
+0 1 3 90 "GO:0005840" "ribosome" 1
+0 1 2 35 "GO:0005844" "polysome" 1
+0 1 3 13 "GO:0005845;GO:0034518" "RNA cap binding complex" 1
+0 1 3 12 "GO:0005849" "mRNA cleavage factor complex" 1
+0 1 2 20 "GO:0005852" "eukaryotic translation initiation factor 3 complex" 1
+0 0.93882453737929 3 713 "GO:0005856" "cytoskeleton" 1
+0 0.206138620758224 2 32 "GO:0005858" "axonemal dynein complex" 1
+0 1 4 18 "GO:0005859;GO:0005865;GO:0036379" "striated muscle thin filament" 1
+0 1 4 22 "GO:0005868" "cytoplasmic dynein complex" 1
+0 1 3 54 "GO:0005871" "kinesin complex" 1
+0 0.72728887640411 2 315 "GO:0005874" "microtubule" 1
+0 0.789831683926424 2 158 "GO:0005875" "microtubule associated complex" 1
+0 0.730246903111933 3 49 "GO:0005876" "spindle microtubule" 1
+0 0.235407787648691 7 35 "GO:0005881" "cytoplasmic microtubule" 1
+0 0.737370731542673 2 50 "GO:0005882" "intermediate filament" 1
+0 1 3 15 "GO:0005883" "neurofilament" 1
+0 0.196468363517342 2 31 "GO:0005884" "actin filament" 1
+0 0.942158775765494 4 1934 "GO:0005887;GO:0031226" "intrinsic component of plasma membrane" 1
+0 0.0193500489223327 5 22 "GO:0005891" "voltage-gated calcium channel complex" 1
+0 1 4 50 "GO:0005892" "acetylcholine-gated channel complex" 1
+0 0.744206605984145 5 100 "GO:0005901;GO:0044853" "plasma membrane raft" 1
+0 1 2 43 "GO:0005902" "microvillus" 1
+0 0.722930105908746 2 48 "GO:0005903" "brush border" 1
+0 1 2 52 "GO:0005905" "clathrin-coated pit" 1
+0 0.974213612358324 2 382 "GO:0005911" "cell-cell junction" 1
+0 0.914731635662641 5 92 "GO:0005912" "adherens junction" 1
+0 1 2 32 "GO:0005918" "septate junction" 1
+0 0.952730118216428 2 114 "GO:0005923;GO:0070160" "tight junction" 1
+0 0.997793322971989 3 228 "GO:0005925;GO:0030055" "cell-substrate junction" 1
+0 0.0109498607788628 2 402 "GO:0005929" "cilium" 1
+0 0.353223362256869 2 80 "GO:0005930" "axoneme" 1
+0 0.838003210131525 3 314 "GO:0005938" "cell cortex" 1
+0 0.274333654614333 3 12 "GO:0005942" "phosphatidylinositol 3-kinase complex" 1
+0 0.0326050434385417 3 11 "GO:0005952" "cAMP-dependent protein kinase complex" 1
+0 1 2 13 "GO:0005963" "magnesium-dependent protein serine/threonine phosphatase complex" 1
+0 1 2 10 "GO:0005971" "ribonucleoside-diphosphate reductase complex" 1
+0 1 2 92 "GO:0008021;GO:0070382" "exocytic vesicle" 1
+0 0.24522081038385 2 36 "GO:0008023" "transcription elongation factor complex" 1
+0 0.526892279986169 2 28 "GO:0008074" "guanylate cyclase complex, soluble" 1
+0 0.857477877276314 5 129 "GO:0008076;GO:0034705" "potassium channel complex" 1
+0 1 3 15 "GO:0008180" "COP9 signalosome" 1
+0 1 2 31 "GO:0008287;GO:1903293" "phosphatase complex" 1
+0 0.225617404410128 5 34 "GO:0008328;GO:0098878" "ionotropic glutamate receptor complex" 1
+0 1 2 10 "GO:0008540" "proteasome regulatory particle, base subcomplex" 1
+0 1 2 10 "GO:0008541" "proteasome regulatory particle, lid subcomplex" 1
+0 1 2 29 "GO:0009295;GO:0042645" "nucleoid" 1
+0 1 2 27 "GO:0009507;GO:0009536" "plastid" 1
+0 0.440270382835791 3 165 "GO:0009897" "external side of plasma membrane" 1
+0 0.907592097983171 4 89 "GO:0009898;GO:0098562" "cytoplasmic side of membrane" 1
+0 1 4 30 "GO:0009925" "basal plasma membrane" 1
+0 1 3 10 "GO:0009941;GO:0009526" "chloroplast envelope" 1
+0 0.982020550049135 2 510 "GO:0009986" "cell surface" 1
+0 0.880825951664393 2 383 "GO:0010008" "endosome membrane" 1
+0 1 4 10 "GO:0010009" "cytoplasmic side of endosome membrane" 1
+0 1 5 22 "GO:0010494" "cytoplasmic stress granule" 1
+0 0.38915937261464 2 85 "GO:0012505" "endomembrane system" 1
+0 1 2 15 "GO:0012507" "ER to Golgi transport vesicle membrane" 1
+0 0.425563266204772 2 235 "GO:0014069;GO:0099572" "postsynaptic specialization" 1
+0 1 4 38 "GO:0014704;GO:0044291" "cell-cell contact zone" 1
+0 1 5 25 "GO:0014731" "spectrin-associated cytoskeleton" 1
+0 1 2 26 "GO:0015030" "Cajal body" 1
+0 0.43114027176706 4 273 "GO:0015629" "actin cytoskeleton" 1
+0 1 4 61 "GO:0015630" "microtubule cytoskeleton" 1
+0 1 3 77 "GO:0015934" "large ribosomal subunit" 1
+0 1 3 50 "GO:0015935" "small ribosomal subunit" 1
+0 1 3 14 "GO:0016010;GO:0090665" "dystrophin-associated glycoprotein complex" 1
+0 0.819460172226202 2 64 "GO:0016234" "inclusion body" 1
+0 0.514069445919558 3 27 "GO:0016235" "aggresome" 1
+0 0.815205815624972 4 304 "GO:0016323" "basolateral plasma membrane" 1
+0 0.929188986006354 4 372 "GO:0016324" "apical plasma membrane" 1
+0 1 4 18 "GO:0016327" "apicolateral plasma membrane" 1
+0 0.730246903111933 2 49 "GO:0016328" "lateral plasma membrane" 1
+0 0.902503772775687 2 87 "GO:0016363" "nuclear matrix" 1
+0 1 2 14 "GO:0016442;GO:0031332" "RISC complex" 1
+0 0.480517706537918 2 61 "GO:0016459" "myosin complex" 1
+0 1 3 30 "GO:0016460" "myosin II complex" 1
+0 0.234488654606125 2 10 "GO:0016461" "unconventional myosin complex" 1
+0 0.398171651505941 3 19 "GO:0016469" "proton-transporting two-sector ATPase complex" 1
+0 1 4 33 "GO:0016529" "sarcoplasmic reticulum" 1
+0 0.574892084246118 3 32 "GO:0016592" "mediator complex" 1
+0 0.991683175330166 2 444 "GO:0016604" "nuclear body" 1
+0 0.744206605984145 2 100 "GO:0016605" "PML body" 1
+0 0.975888845414679 3 210 "GO:0016607" "nuclear speck" 1
+0 1 2 25 "GO:0017053" "transcription repressor complex" 1
+0 1 2 13 "GO:0017101" "aminoacyl-tRNA synthetase multienzyme complex" 1
+0 1 2 15 "GO:0017119" "Golgi transport complex" 1
+0 1 2 11 "GO:0017146" "NMDA selective glutamate receptor complex" 1
+0 0.613113156215211 2 78 "GO:0018995" "host cellular component" 1
+0 0.848750892366946 2 177 "GO:0019005" "SCF ubiquitin ligase complex" 1
+0 1 2 16 "GO:0019013;GO:0044423" "virion component" 1
+0 0.942967067026607 2 107 "GO:0019897" "extrinsic component of plasma membrane" 1
+0 0.915865817724527 2 209 "GO:0019898" "extrinsic component of membrane" 1
+0 1 2 17 "GO:0020002;GO:0033644" "host cell membrane" 1
+0 1 2 15 "GO:0022624" "proteasome accessory complex" 1
+0 1 2 37 "GO:0022625" "cytosolic large ribosomal subunit" 1
+0 1 2 11 "GO:0022626" "cytosolic ribosome" 1
+0 1 2 24 "GO:0022627" "cytosolic small ribosomal subunit" 1
+0 1 3 10 "GO:0030008" "TRAPP complex" 1
+0 1 3 11 "GO:0030014" "CCR4-NOT complex" 1
+0 1 6 12 "GO:0030016" "myofibril" 1
+0 1 2 26 "GO:0030017" "sarcomere" 1
+0 0.802276616339178 2 113 "GO:0030018" "Z disc" 1
+0 0.726443913821436 2 142 "GO:0030027" "lamellipodium" 1
+0 0.997753345109939 2 1357 "GO:0030054" "cell junction" 1
+0 1 3 10 "GO:0030056" "hemidesmosome" 1
+0 1 4 13 "GO:0030118" "clathrin coat" 1
+0 1 3 25 "GO:0030119" "AP-type membrane coat adaptor complex" 1
+0 1 3 59 "GO:0030120;GO:0030117" "membrane coat" 1
+0 1 5 35 "GO:0030127" "COPII vesicle coat" 1
+0 1 4 12 "GO:0030131" "clathrin adaptor complex" 1
+0 1 2 147 "GO:0030133" "transport vesicle" 1
+0 1 2 41 "GO:0030134" "COPII-coated ER to Golgi transport vesicle" 1
+0 0.960823750925593 2 121 "GO:0030135" "coated vesicle" 1
+0 0.828874987523732 2 66 "GO:0030136" "clathrin-coated vesicle" 1
+0 0.533798056684333 2 145 "GO:0030139" "endocytic vesicle" 1
+0 1 3 18 "GO:0030140" "trans-Golgi network transport vesicle" 1
+0 0.264175501536039 2 131 "GO:0030141" "secretory granule" 1
+0 0.574892084246118 2 32 "GO:0030173;GO:0031228" "intrinsic component of Golgi membrane" 1
+0 1 2 49 "GO:0030175" "filopodium" 1
+0 0.885497781215449 2 81 "GO:0030176;GO:0031227" "intrinsic component of endoplasmic reticulum membrane" 1
+0 1 2 24 "GO:0030285;GO:0098563" "intrinsic component of synaptic vesicle membrane" 1
+0 0.288132218134853 3 71 "GO:0030286" "dynein complex" 1
+0 0.436518055779708 2 56 "GO:0030315" "T-tubule" 1
+0 0.92425884979441 3 416 "GO:0030424" "axon" 1
+0 0.94430769750656 5 486 "GO:0030425" "dendrite" 1
+0 1 3 100 "GO:0030426;GO:0030427" "site of polarized growth" 1
+0 0.487373200862324 5 25 "GO:0030430" "host cell cytoplasm" 1
+0 0.906092060302717 2 353 "GO:0030496" "midbody" 1
+0 0.948768951192708 3 111 "GO:0030658" "transport vesicle membrane" 1
+0 0.980825261476052 2 902 "GO:0030659;GO:0012506" "vesicle membrane" 1
+0 1 2 11 "GO:0030660" "Golgi-associated vesicle membrane" 1
+0 0.757634565310844 3 53 "GO:0030662" "coated vesicle membrane" 1
+0 0.618027846921942 2 36 "GO:0030665" "clathrin-coated vesicle membrane" 1
+0 0.632887768316171 3 123 "GO:0030666" "endocytic vesicle membrane" 1
+0 0.959804666256724 3 247 "GO:0030667" "secretory granule membrane" 1
+0 1 2 82 "GO:0030670" "phagocytic vesicle membrane" 1
+0 0.824230520566829 7 65 "GO:0030672;GO:0099501" "synaptic vesicle membrane" 1
+0 0.506244633139773 2 102 "GO:0030673;GO:0032589" "neuron projection membrane" 1
+0 1 2 14 "GO:0030677" "ribonuclease P complex" 1
+0 1 2 10 "GO:0030681" "multimeric ribonuclease P complex" 1
+0 1 2 66 "GO:0030684" "preribosome" 1
+0 1 3 19 "GO:0030686" "90S preribosome" 1
+0 1 4 16 "GO:0030687" "preribosome, large subunit precursor" 1
+0 1 2 10 "GO:0030688" "preribosome, small subunit precursor" 1
+0 0.365117876633885 4 17 "GO:0030690;GO:0030689" "Noc complex" 1
+0 1 4 30 "GO:0030863" "cortical cytoskeleton" 1
+0 1 2 17 "GO:0030864" "cortical actin cytoskeleton" 1
+0 1 2 12 "GO:0030894" "replisome" 1
+0 1 3 14 "GO:0030904" "retromer complex" 1
+0 1 2 19 "GO:0030992" "intraciliary transport particle B" 1
+0 1 3 14 "GO:0031011" "Ino80 complex" 1
+0 0.0075658437981439 2 676 "GO:0031012;GO:0030312" "external encapsulating structure" 1
+0 1 2 16 "GO:0031045" "dense core granule" 1
+0 1 2 13 "GO:0031080" "nuclear pore outer ring" 1
+0 1 2 10 "GO:0031082" "BLOC complex" 1
+0 0.493034248063037 2 100 "GO:0031088" "platelet dense granule membrane" 1
+0 0.999997205731266 3 2924 "GO:0031090" "organelle membrane" 1
+0 1 4 12 "GO:0031091" "platelet alpha granule" 1
+0 1 2 10 "GO:0031093" "platelet alpha granule lumen" 1
+0 1 2 12 "GO:0031143" "pseudopodium" 1
+0 1 3 31 "GO:0031201" "SNARE complex" 1
+0 0.315203911339066 2 141 "GO:0031225" "anchored component of membrane" 1
+0 1 4 23 "GO:0031232" "extrinsic component of external side of plasma membrane" 1
+0 1 4 47 "GO:0031234" "extrinsic component of cytoplasmic side of plasma membrane" 1
+0 0.628110606935436 2 37 "GO:0031252" "cell leading edge" 1
+0 0.563096505676834 2 346 "GO:0031253" "cell projection membrane" 1
+0 0.429931920646905 2 163 "GO:0031256" "leading edge membrane" 1
+0 1 3 21 "GO:0031258" "lamellipodium membrane" 1
+0 0.0302384884149828 4 26 "GO:0031264;GO:0097342" "death-inducing signaling complex" 1
+0 0.381865366698699 2 18 "GO:0031265" "CD95 death-inducing signaling complex" 1
+0 0.706625306738065 2 224 "GO:0031301;GO:0031300" "intrinsic component of organelle membrane" 1
+0 0.381865366698699 3 18 "GO:0031305;GO:0031304" "integral component of mitochondrial inner membrane" 1
+0 0.429506733162797 2 21 "GO:0031307;GO:0031306" "intrinsic component of mitochondrial outer membrane" 1
+0 0.444557839384376 3 22 "GO:0031312" "extrinsic component of organelle membrane" 1
+0 0.984099278323027 6 1336 "GO:0031410;GO:0097708" "intracellular vesicle" 1
+0 0.293472557556701 2 13 "GO:0031414" "N-terminal protein acetyltransferase complex" 1
+0 1 2 36 "GO:0031430" "M band" 1
+0 0.964834215004615 3 616 "GO:0031461;GO:0000151" "ubiquitin ligase complex" 1
+0 0.254677015722884 2 11 "GO:0031462" "Cul2-RING ubiquitin ligase complex" 1
+0 0.770565442611133 2 243 "GO:0031463" "Cul3-RING ubiquitin ligase complex" 1
+0 0.274333654614333 2 12 "GO:0031464" "Cul4A-RING E3 ubiquitin ligase complex" 1
+0 1.59537634571128e-05 3 102 "GO:0031514" "motile cilium" 0.0042995392516919
+0 1 3 42 "GO:0031519" "PcG protein complex" 1
+0 1 3 60 "GO:0031526" "brush border membrane" 1
+0 1 2 14 "GO:0031527" "filopodium membrane" 1
+0 1 5 11 "GO:0031528" "microvillus membrane" 1
+0 0.598947340371122 4 76 "GO:0031594" "neuromuscular junction" 1
+0 1 2 34 "GO:0031672" "A band" 1
+0 1 2 27 "GO:0031674" "I band" 1
+0 0.860411368761306 2 130 "GO:0031901" "early endosome membrane" 1
+0 1 6 86 "GO:0031902" "late endosome membrane" 1
+0 1 4 13 "GO:0031932;GO:0038201" "TOR complex" 1
+0 1 2 13 "GO:0031941" "filamentous actin" 1
+0 0.939237634381573 2 226 "GO:0031965" "nuclear membrane" 1
+0 0.994210966507952 2 403 "GO:0031966" "mitochondrial membrane" 1
+0 0.861879319229247 5 74 "GO:0031970" "organelle envelope lumen" 1
+0 0.986364744432205 2 2282 "GO:0031982" "vesicle" 1
+0 0.691626693121244 2 44 "GO:0031985" "Golgi cisterna" 1
+0 1 2 12 "GO:0032009" "early phagosome" 1
+0 1 3 12 "GO:0032039" "integrator complex" 1
+0 1 3 30 "GO:0032040" "small-subunit processome" 1
+0 1 2 15 "GO:0032045" "guanyl-nucleotide exchange factor complex" 1
+0 0.381865366698699 2 18 "GO:0032059" "bleb" 1
+0 0.564032455594999 4 190 "GO:0032154" "cleavage furrow" 1
+0 0.0931670747436832 5 41 "GO:0032279;GO:0098984" "asymmetric synapse" 1
+0 0.381865366698699 2 18 "GO:0032281" "AMPA glutamate receptor complex" 1
+0 1 3 10 "GO:0032300" "mismatch repair complex" 1
+0 1 3 30 "GO:0032391" "photoreceptor connecting cilium" 1
+0 1 2 40 "GO:0032420" "stereocilium" 1
+0 1 2 32 "GO:0032421" "stereocilium bundle" 1
+0 1 2 12 "GO:0032426" "stereocilium tip" 1
+0 1 2 13 "GO:0032433" "filopodium tip" 1
+0 1 2 32 "GO:0032579" "apical lamina of hyaline layer" 1
+0 0.329992477997765 2 110 "GO:0032580" "Golgi cisterna membrane" 1
+0 0.313924039227511 3 43 "GO:0032587" "ruffle membrane" 1
+0 1 2 31 "GO:0032588" "trans-Golgi network membrane" 1
+0 1 2 16 "GO:0032590" "dendrite membrane" 1
+0 0.352643952086379 2 47 "GO:0032592;GO:0098573" "intrinsic component of mitochondrial membrane" 1
+0 1 4 15 "GO:0032593" "insulin-responsive compartment" 1
+0 1 2 10 "GO:0032797" "SMN complex" 1
+0 1 2 33 "GO:0032809;GO:0044298" "neuronal cell body membrane" 1
+0 0.371723840155794 6 49 "GO:0032839" "dendrite cytoplasm" 1
+0 0.254677015722884 2 11 "GO:0032983" "kainate selective glutamate receptor complex" 1
+0 0.684673390078593 2 133 "GO:0032993" "protein-DNA complex" 1
+0 0.647485713057178 3 39 "GO:0033010" "paranodal junction" 1
+0 0.347917259868415 3 16 "GO:0033017" "sarcoplasmic reticulum membrane" 1
+0 0.254677015722884 2 11 "GO:0033018" "sarcoplasmic reticulum lumen" 1
+0 1 9 11 "GO:0033093" "Weibel-Palade body" 1
+0 1 3 28 "GO:0033116" "endoplasmic reticulum-Golgi intermediate compartment membrane" 1
+0 1 2 11 "GO:0033176" "proton-transporting V-type ATPase complex" 1
+0 0.274333654614333 3 12 "GO:0033177" "proton-transporting two-sector ATPase complex, proton-transporting domain" 1
+0 1 2 10 "GO:0033178" "proton-transporting two-sector ATPase complex, catalytic domain" 1
+0 0.647485713057178 2 39 "GO:0033270" "paranode region of axon" 1
+0 1 2 11 "GO:0033276" "transcription factor TFTC complex" 1
+0 0.436518055779708 3 56 "GO:0033646;GO:0033643" "host cell part" 1
+0 0.365117876633885 4 17 "GO:0033655" "host cell cytoplasm part" 1
+0 1 3 11 "GO:0034045" "phagophore assembly site membrane" 1
+0 0.365117876633885 4 17 "GO:0034358;GO:1990777;GO:0032994" "protein-lipid complex" 1
+0 0.234488654606125 2 10 "GO:0034362" "low-density lipoprotein particle" 1
+0 1 2 14 "GO:0034399" "nuclear periphery" 1
+0 1 2 24 "GO:0034451" "centriolar satellite" 1
+0 0.408355944325061 2 231 "GO:0034703" "cation channel complex" 1
+0 0.138653948478455 3 49 "GO:0034704" "calcium channel complex" 1
+0 0.215858067398267 3 33 "GO:0034706" "sodium channel complex" 1
+0 1 3 69 "GO:0034707" "chloride channel complex" 1
+0 1 3 13 "GO:0034719" "SMN-Sm protein complex" 1
+0 0.938189014855711 6 104 "GO:0034774;GO:0060205;GO:0031983" "vesicle lumen" 1
+0 1 2 15 "GO:0035003" "subapical complex" 1
+0 1 2 77 "GO:0035097;GO:0034708" "methyltransferase complex" 1
+0 1 4 21 "GO:0035098" "ESC/E(Z) complex" 1
+0 1 3 20 "GO:0035102" "PRC1 complex" 1
+0 1 3 10 "GO:0035145" "exon-exon junction complex" 1
+0 1 3 20 "GO:0035267;GO:0043189;GO:1902562" "H4 histone acetyltransferase complex" 1
+0 1 3 11 "GO:0035577" "azurophil granule membrane" 1
+0 1 2 24 "GO:0035578" "azurophil granule lumen" 1
+0 1 2 18 "GO:0035580" "specific granule lumen" 1
+0 1 3 56 "GO:0035631" "CD40 receptor complex" 1
+0 1 3 36 "GO:0035861;GO:0090734" "site of double-strand break" 1
+0 1 2 44 "GO:0035869" "ciliary transition zone" 1
+0 1 2 15 "GO:0036038" "MKS complex" 1
+0 0.306109480229872 3 106 "GO:0036064" "ciliary basal body" 1
+0 0.24522081038385 5 36 "GO:0036126;GO:0097729" "sperm flagellum" 1
+0 1 5 13 "GO:0036156" "inner dynein arm" 1
+0 0.0512203413959584 5 14 "GO:0036157" "outer dynein arm" 1
+0 0.274333654614333 5 12 "GO:0036195" "muscle cell projection membrane" 1
+0 1 2 17 "GO:0036452" "ESCRT complex" 1
+0 0.99328890326582 4 265 "GO:0036464;GO:0035770" "ribonucleoprotein granule" 1
+0 1 4 18 "GO:0038037;GO:0097648;GO:0038039" "G protein-coupled receptor complex" 1
+0 0.563368538512121 4 31 "GO:0042025;GO:0033648;GO:0033647" "host intracellular organelle" 1
+0 0.715415120022161 2 47 "GO:0042151" "nematocyst" 1
+0 1 2 13 "GO:0042170" "plastid membrane" 1
+0 0.952730118216428 4 114 "GO:0042383" "sarcolemma" 1
+0 1 3 13 "GO:0042405" "nuclear inclusion body" 1
+0 1 3 81 "GO:0042470;GO:0048770" "melanosome" 1
+0 1 2 10 "GO:0042555" "MCM complex" 1
+0 1 3 19 "GO:0042575" "DNA polymerase complex" 1
+0 1 6 46 "GO:0042589" "zymogen granule membrane" 1
+0 1 2 17 "GO:0042597" "periplasmic space" 1
+0 1 2 13 "GO:0042622" "photoreceptor outer segment membrane" 1
+0 0.824230520566829 2 65 "GO:0042641" "actomyosin" 1
+0 0.0894631536710909 3 90 "GO:0042734" "presynaptic membrane" 1
+0 0.994646001167189 2 998 "GO:0043005" "neuron projection" 1
+0 0.911463916009527 3 452 "GO:0043025;GO:0044297" "cell body" 1
+0 1 2 32 "GO:0043034" "costamere" 1
+0 0.347917259868415 3 16 "GO:0043073" "germ cell nucleus" 1
+0 1 3 13 "GO:0043083" "synaptic cleft" 1
+0 1 5 25 "GO:0043186" "P granule" 1
+0 1 2 22 "GO:0043194;GO:0033268" "node of Ranvier" 1
+0 0.546325576251685 3 69 "GO:0043195" "terminal bouton" 1
+0 0.599105868591743 2 117 "GO:0043197;GO:0044309" "neuron spine" 1
+0 1 2 33 "GO:0043198" "dendritic shaft" 1
+0 0.438559473171522 6 92 "GO:0043202;GO:0005775" "vacuolar lumen" 1
+0 0.916118555529762 2 154 "GO:0043204" "perikaryon" 1
+0 0.71278871569241 2 94 "GO:0043209" "myelin sheath" 1
+0 0.999991509447588 2 2200 "GO:0043232;GO:0043228" "intracellular non-membrane-bounded organelle" 1
+0 0.978166232484597 2 498 "GO:0043235" "receptor complex" 1
+0 1 2 10 "GO:0043240" "Fanconi anaemia nuclear complex" 1
+0 1 4 18 "GO:0043292" "contractile fiber" 1
+0 1 3 12 "GO:0043596" "nuclear replication fork" 1
+0 1 2 22 "GO:0043657" "host cell" 1
+0 0.576973381064723 2 73 "GO:0043679;GO:0044306" "neuron projection terminus" 1
+0 1 2 13 "GO:0044218;GO:0044217" "other organism cell membrane" 1
+0 1 2 31 "GO:0044224" "juxtaparanode region of axon" 1
+0 1 2 12 "GO:0044232" "organelle membrane contact site" 1
+0 1 2 15 "GO:0044295" "axonal growth cone" 1
+0 0.234488654606125 4 10 "GO:0044305" "calyx of Held" 1
+0 0.819460172226202 2 64 "GO:0044322;GO:0036513;GO:0000836;GO:0000835;GO:0000153" "cytoplasmic ubiquitin ligase complex" 1
+0 1 2 127 "GO:0044391" "ribosomal subunit" 1
+0 1 4 21 "GO:0045111" "intermediate filament cytoskeleton" 1
+0 0.876775716402632 4 334 "GO:0045121;GO:0098857" "membrane microdomain" 1
+0 0.699768993715875 2 45 "GO:0045171" "intercellular bridge" 1
+0 0.312066032822553 2 107 "GO:0045177" "apical part of cell" 1
+0 1 3 17 "GO:0045179" "apical cortex" 1
+0 0.782037308295203 3 378 "GO:0045202" "synapse" 1
+0 0.538424749230931 3 68 "GO:0045335" "phagocytic vesicle" 1
+0 1 6 28 "GO:0046540;GO:0097526" "spliceosomal tri-snRNP complex" 1
+0 1 4 12 "GO:0046658" "anchored component of plasma membrane" 1
+0 1 3 15 "GO:0046930" "pore complex" 1
+0 1 3 10 "GO:0048188" "Set1C/COMPASS complex" 1
+0 0.897110447304332 2 532 "GO:0048471" "perinuclear region of cytoplasm" 1
+0 0.113298341882621 2 70 "GO:0048786" "presynaptic active zone" 1
+0 1 2 10 "GO:0051286;GO:0060187" "cell tip" 1
+0 1 5 50 "GO:0055029;GO:0000428;GO:0030880" "RNA polymerase complex" 1
+0 0.944476323159916 2 108 "GO:0055037" "recycling endosome" 1
+0 1 4 48 "GO:0055038" "recycling endosome membrane" 1
+0 0.0580923252638095 2 15 "GO:0055120" "striated muscle dense body" 1
+0 0.138653948478455 4 49 "GO:0060076" "excitatory synapse" 1
+0 0.647485713057178 4 39 "GO:0060077" "inhibitory synapse" 1
+0 0.472897393062661 5 97 "GO:0060170" "ciliary membrane" 1
+0 1 2 15 "GO:0061689" "tricellular tight junction" 1
+0 0.813896168713179 2 116 "GO:0061695" "transferase complex, transferring phosphorus-containing groups" 1
+0 1 2 12 "GO:0061702" "inflammasome complex" 1
+0 1 2 34 "GO:0061827" "sperm head" 1
+0 0.987881488628702 4 639 "GO:0070013;GO:0043233;GO:0031974" "organelle lumen" 1
+0 0.674684131452017 5 1099 "GO:0070062;GO:1903561;GO:0065010;GO:0043230" "extracellular membrane-bounded organelle" 1
+0 1 2 13 "GO:0070069" "cytochrome complex" 1
+0 0.99788932250644 3 575 "GO:0070161" "anchoring junction" 1
+0 1 2 11 "GO:0070419" "nonhomologous end joining complex" 1
+0 1 5 19 "GO:0070461" "SAGA-type complex" 1
+0 1 3 50 "GO:0070603;GO:1904949" "ATPase complex" 1
+0 1 2 18 "GO:0070821;GO:0035579" "tertiary granule membrane" 1
+0 0.254677015722884 2 11 "GO:0070822" "Sin3-type complex" 1
+0 1 2 12 "GO:0070852" "cell body fiber" 1
+0 1 2 10 "GO:0070938" "contractile ring" 1
+0 0.312107343415219 2 14 "GO:0070971" "endoplasmic reticulum exit site" 1
+0 1 2 17 "GO:0071010;GO:0071004" "prespliceosome" 1
+0 1 2 44 "GO:0071011" "precatalytic spliceosome" 1
+0 1 3 83 "GO:0071013" "catalytic step 2 spliceosome" 1
+0 1 2 27 "GO:0071339;GO:0044665" "MLL1/2 complex" 1
+0 1 2 14 "GO:0071546" "pi-body" 1
+0 0.122158058244709 4 23 "GO:0071782;GO:0098827" "endoplasmic reticulum subcompartment" 1
+0 0.586111897272613 2 33 "GO:0071944" "cell periphery" 1
+0 1 4 18 "GO:0072534;GO:0098966" "perineuronal net" 1
+0 1 2 24 "GO:0072562" "blood microparticle" 1
+0 1 4 89 "GO:0072686" "mitotic spindle" 1
+0 0.563368538512121 2 31 "GO:0080008" "Cul4-RING E3 ubiquitin ligase complex" 1
+0 0.500899546486529 4 26 "GO:0089717;GO:0098985;GO:0098978;GO:0098983;GO:0032280;GO:0098982" "spanning component of membrane" 1
+0 1 2 23 "GO:0090543" "Flemming body" 1
+0 0.837799459836602 2 68 "GO:0090575" "RNA polymerase II transcription regulator complex" 1
+0 1 2 11 "GO:0097038" "perinuclear endoplasmic reticulum" 1
+0 0.797837692374953 2 428 "GO:0097060;GO:0045211" "synaptic membrane" 1
+0 1 2 56 "GO:0097225" "sperm midpiece" 1
+0 0.234488654606125 2 10 "GO:0097228" "sperm principal piece" 1
+0 1 2 23 "GO:0097346" "INO80-type complex" 1
+0 1 3 10 "GO:0097418" "neurofibrillary tangle" 1
+0 1 3 71 "GO:0097431" "mitotic spindle pole" 1
+0 1 2 85 "GO:0097525;GO:0030532;GO:0120114" "Sm-like protein family complex" 1
+0 1 2 20 "GO:0097542" "ciliary tip" 1
+0 1 2 23 "GO:0097543" "ciliary inversin compartment" 1
+0 1 2 48 "GO:0097546" "ciliary base" 1
+0 1 5 15 "GO:0097575" "lateral cell cortex" 1
+0 0.730246903111933 3 49 "GO:0097730" "non-motile cilium" 1
+0 0.670366232417131 2 256 "GO:0098552" "side of membrane" 1
+0 0.997913363007404 2 1792 "GO:0098588" "bounding membrane of organelle" 1
+0 0.92244701053033 3 1474 "GO:0098590" "plasma membrane region" 1
+0 0.758781639313657 2 103 "GO:0098687" "chromosomal region" 1
+0 0.489347325688618 3 250 "GO:0098791;GO:0031984" "organelle subcompartment" 1
+0 0.717972498269685 2 184 "GO:0098793" "presynapse" 1
+0 0.676467156487628 2 174 "GO:0098794" "postsynapse" 1
+0 0.999747163811404 2 1036 "GO:0098796" "membrane protein complex" 1
+0 0.947927730172665 2 539 "GO:0098797" "plasma membrane protein complex" 1
+0 0.989770763794976 2 171 "GO:0098798" "mitochondrial protein-containing complex" 1
+0 1 2 11 "GO:0098799" "outer mitochondrial membrane protein complex" 1
+0 0.879194715828648 2 79 "GO:0098800" "inner mitochondrial membrane protein complex" 1
+0 0.960331986000257 2 188 "GO:0098802" "plasma membrane signaling receptor complex" 1
+0 1 2 44 "GO:0098803" "respiratory chain complex" 1
+0 1 5 11 "GO:0098839;GO:0099634" "postsynaptic specialization membrane" 1
+0 1 2 119 "GO:0098858" "actin-based cell projection" 1
+0 0.872545171474242 2 77 "GO:0098862" "cluster of actin-based cell projections" 1
+0 1 2 48 "GO:0099023" "vesicle tethering complex" 1
+0 0.0780230321647815 4 38 "GO:0099055;GO:0098936;GO:0099699;GO:0099240" "intrinsic component of synaptic membrane" 1
+0 0.036662217615201 2 28 "GO:0099056;GO:0098889" "integral component of presynaptic membrane" 1
+0 1 4 10 "GO:0099061;GO:0099060;GO:0099146;GO:0098948" "intrinsic component of postsynaptic density membrane" 1
+0 0.811108043289392 2 774 "GO:0099080" "supramolecular complex" 1
+0 0.648020691349004 2 209 "GO:0099503" "secretory vesicle" 1
+0 0.200105470939311 2 479 "GO:0099513;GO:0099512;GO:0099081" "supramolecular fiber" 1
+0 0.80621960064414 3 114 "GO:0099568" "cytoplasmic region" 1
+0 1 2 45 "GO:0099738" "cell cortex region" 1
+0 1 2 12 "GO:0101003" "ficolin-1-rich granule membrane" 1
+0 0.758383333781134 3 1630 "GO:0120025;GO:0042995" "cell projection" 1
+0 0.546325576251685 2 69 "GO:0120111;GO:0032838" "plasma membrane bounded cell projection cytoplasm" 1
+0 0.999945768874929 2 885 "GO:0140513" "nuclear protein-containing complex" 1
+0 0.962870785827648 2 123 "GO:0140534" "endoplasmic reticulum protein-containing complex" 1
+0 0.999190469816248 2 1382 "GO:1902494" "catalytic complex" 1
+0 0.907860138676094 2 402 "GO:1902495;GO:1990351;GO:0034702" "transporter complex" 1
+0 0.65679187126404 2 40 "GO:1902554;GO:1902911" "protein kinase complex" 1
+0 1 2 28 "GO:1902555" "endoribonuclease complex" 1
+0 1 2 51 "GO:1902710" "GABA receptor complex" 1
+0 1 2 37 "GO:1902711" "GABA-A receptor complex" 1
+0 1 2 20 "GO:1904115" "axon cytoplasm" 1
+0 1 2 24 "GO:1904724" "tertiary granule lumen" 1
+0 1 5 48 "GO:1904813" "ficolin-1-rich granule lumen" 1
+0 1 2 64 "GO:1905368" "peptidase complex" 1
+0 1 3 71 "GO:1990023;GO:0051233" "spindle midzone" 1
+0 1 2 76 "GO:1990204" "oxidoreductase complex" 1
+0 0.999099514062017 3 1067 "GO:1990234;GO:0140535" "intracellular protein-containing complex" 1
+0 1 2 37 "GO:1990391" "DNA repair complex" 1
+0 1 2 11 "GO:1990752" "microtubule end" 1
+0 1 2 460 "GO:1990904" "ribonucleoprotein complex" 1
+0 1 2 28 "GO:1990909;GO:1990851" "Wnt signalosome" 1
+0 8.2412287388303e-28 5 13036 "unknown" "unknown" 4.44202229022953e-25

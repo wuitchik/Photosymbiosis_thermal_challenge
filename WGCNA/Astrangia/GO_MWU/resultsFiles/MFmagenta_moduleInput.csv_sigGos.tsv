@@ -1,0 +1,4 @@
+delta.rank	pval	level	nseqs	term	name	p.adj
+0	2.21403300204761e-4	2	681	GO:0005261;GO:0005216;GO:0015267;GO:0022803	passive transmembrane transporter activity	0.0712457625568081
+0	2.4042439557978e-4	3	1225	GO:0008270	zinc ion binding	0.0712457625568081
+0	1.74819798813747e-5	2	1694	GO:0046914	transition metal ion binding	0.0155414801145421

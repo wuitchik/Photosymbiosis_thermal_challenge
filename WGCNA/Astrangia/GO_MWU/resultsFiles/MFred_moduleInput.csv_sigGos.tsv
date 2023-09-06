@@ -1,0 +1,4 @@
+delta.rank	pval	level	nseqs	term	name	p.adj
+0	3.61649625982101e-5	3	2373	GO:0004888;GO:0038023;GO:0060089	signaling receptor activity	0.0107168839166029
+0	1.29966032227736e-5	2	1684	GO:0004930	G protein-coupled receptor activity	0.00577699013252287
+0	1.4800308394012e-11	5	13036	unknown	unknown	1.31574741622767e-8
